@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project explores global COVID-19 case, death, and vaccination data to uncover trends and insights. It highlights the use of advanced SQL techniques (CTEs, window functions, temp tables, views) to analyze public health data and prepare outputs for visualization in Power BI/Tableau.
+This project explores global COVID-19 case within the years 2020-2021, death, and vaccination data to uncover trends and insights. It highlights the use of advanced SQL techniques (CTEs, window functions, temp tables, views) to analyze public health data and prepare outputs for visualization in Power BI/Tableau.
 
 **Objectives**
 
